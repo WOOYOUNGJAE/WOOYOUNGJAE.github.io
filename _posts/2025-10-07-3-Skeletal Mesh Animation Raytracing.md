@@ -4,10 +4,10 @@ categories:
   - Devs
 tags: [Devs, Vulkan, RayTracing, Animation]
 ---
+Keywords : skeletal mesh, skinning, animation, compute shader
 
 ![basic_skeletal_animation]({{site.baseurl}}/assets/img/skeletal_animation_rt_8.jpg)
 
-Keywords : skeletal mesh, skinning, animation, compute shader\
 Codes: [MyDevs/myRayTracingLittleAdvanced/mySkeletalAnimationRT.cpp](https://github.com/WOOYOUNGJAE/VulkanMyDevs/blob/master/MyDevs/myRayTracingLittleAdvanced/mySkeletalAnimationRT.cpp)
 
 

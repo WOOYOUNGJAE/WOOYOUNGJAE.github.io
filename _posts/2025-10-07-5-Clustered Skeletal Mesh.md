@@ -4,11 +4,11 @@ categories:
   - Devs
 tags: [Devs, Vulkan, RayTracing, CLAS]
 ---
+Keyword : Cluster Acceleration Structure, Skeletal Mesh, Skinning, Raytracing
 
 
 ![cluster_acceleration_structure]({{site.baseurl}}/assets/img/cluster_acceleration_structure.jpg)
 
-Keyword : Cluster Acceleration Structure, Skeletal Mesh, Skinning, Raytracing
 ## Description
 skeletal mesh를 클러스터링 후 시도해보는 다양한 성능 실험
 
