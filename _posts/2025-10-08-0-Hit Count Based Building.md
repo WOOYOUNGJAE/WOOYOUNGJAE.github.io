@@ -7,6 +7,8 @@ tags: [Devs, Vulkan, RayTracing, BVH]
 
 Keyword : Hit Count Based Building
 
+![clustered_scene8]({{site.baseurl}}/assets/img/clustered_scene8.jpg)
+
 ## Description
 오브젝트를 Clustering 후 각 Cluster들을 BLAS로 만들고, 이전 프레임의 Ray-Hit이 되지 않은 Cluster은 다음 BLAS 빌드(업데이트)를 생략한다.
 - idea from GDC2025 - RTX Mega Geometry(<a href="https://youtu.be/KblmxDkaUfc?t=2807" target="_blank">https://youtu.be/KblmxDkaUfc?t=2807</a>
