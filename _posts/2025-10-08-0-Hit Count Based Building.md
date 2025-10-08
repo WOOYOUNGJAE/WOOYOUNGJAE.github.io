@@ -9,7 +9,8 @@ Keyword : Hit Count Based Building
 
 ## Description
 오브젝트를 Clustering 후 각 Cluster들을 BLAS로 만들고, 이전 프레임의 Ray-Hit이 되지 않은 Cluster은 다음 BLAS 빌드(업데이트)를 생략한다.
-- idea from GDC2025 - RTX Mega Geometry(https://youtu.be/KblmxDkaUfc?t=2807)
+- idea from GDC2025 - RTX Mega Geometry(<a href="https://youtu.be/KblmxDkaUfc?t=2807" target="_blank">https://youtu.be/KblmxDkaUfc?t=2807</a>
+)
 - <iframe width="640" height="360" src="https://www.youtube.com/embed/KblmxDkaUfc?start=2807" frameborder="0" allowfullscreen></iframe>
 
 # 1. Write Hit Info into Cluster Node
